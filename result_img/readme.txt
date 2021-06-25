@@ -1,0 +1,1 @@
+result_img should be in main folder

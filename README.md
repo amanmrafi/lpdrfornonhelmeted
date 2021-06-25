@@ -18,3 +18,5 @@ Prerequisites
 4.Python Library file required- Tkinter,opencv,numpy,imutils,etc.
  
 If everything is clear, open cmd and run 'python lpdrgui.py' without quotes
+
+(First 2 prerequisites can be done by watching this video: https://youtu.be/BS29irPQ5zQ)
